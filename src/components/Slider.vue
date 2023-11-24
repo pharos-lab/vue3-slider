@@ -61,7 +61,6 @@ function prev() {
 .pl-slider {
     display: flex;
     gap: 16px;
-    height: 100px;
     background-color: aquamarine;
     overflow: hidden;
     position: relative;

@@ -1,5 +1,5 @@
 <template>
-    <div class="pl-slider-item shrink-0 bg-red-500" ref="item">
+    <div class="pl-slider-item">
       <slot></slot>
     </div>
 </template>
